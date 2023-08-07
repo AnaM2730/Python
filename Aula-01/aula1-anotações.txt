@@ -1,0 +1,43 @@
+informação sem direcionamento não te leva a lugar nenhum;
+
+input - cria uma caixa de texto e coloca uma frase ou uma informação para o usuário;
+
+no python, o sinal de ( = ) é chamado de atribuição;
+
+variável é tipo uma caixa de informações;
+
+é uma linguagem Case-sensitive - são linguagens que diferem entre letras maiúsculas e minúsculas, ou seja, usar letras 
+minusculas;
+
+regras para a criação da variavel : 
+-criar nomes que façam sentido;
+-não pode começar com números;
+-não pode ter espaço;
+-não pode ser uma palavra reservada do python (repetições de nomes de comando do python)
+
+Calcular valor do projeto
+-quantidade de horas previsstas * valor da hora trabalhada
+
+Tipos de dados:
+-textuais;
+-numéricos.
+
+type = tipo
+
+str = textual
+
+int = numero inteiro
+
+
+Conversão de tipos;
+
+-para numro inteiro - int()
+-para texto - srt()
+
+
+
+dica 1 = atalho ( CTRL + ENTER, notas e tela de texto);
+
+dica 2 = ( executar as variáveis ) TAB;
+
+dica 3 = toda informação que vem de uma entrada 'input' é do tipo texto;
