@@ -1,4 +1,9 @@
-informação sem direcionamento não te leva a lugar nenhum;
+FRASE DO DIA:
+Tudo é facil com um bom direcionamento;
+
+-informação sem direcionamento não te leva a lugar nenhum.
+
+
 
 input - cria uma caixa de texto e coloca uma frase ou uma informação para o usuário;
 
@@ -33,6 +38,12 @@ Conversão de tipos;
 
 -para numro inteiro - int()
 -para texto - srt()
+
+!pip install fpdf (instalação)
+
+
+
+
 
 
 
