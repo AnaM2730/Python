@@ -18,7 +18,8 @@ regras para a criação da variavel :
 -criar nomes que façam sentido;
 -não pode começar com números;
 -não pode ter espaço;
--não pode ser uma palavra reservada do python (repetições de nomes de comando do python)
+-não pode ser uma palavra reservada do python 
+(repetições de nomes de comando do python)
 
 Calcular valor do projeto
 -quantidade de horas previsstas * valor da hora trabalhada
