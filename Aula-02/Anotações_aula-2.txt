@@ -1,0 +1,37 @@
+!pip
+
+.plot()
+
+
+Análise de Dados;
+Frase do dia: 
+"Estou vivendo a minha melhor experiência de aprendizado"
+
+
+DICA;
+-todos os indíces de python começam com 0 (5, 4, 3 , 2, -1)
+- mensagem = """
+Bla bal bla,
+
+
+Bla bla bla...
+"""
+
+
+
+Conceito novo;
+- f "a contação máxima é: R${max ou min}" 
+
+- round(fechamento.max(), 2) -- arredondar numeros
+
+
+
+
+
+
+
+
+
+
+
+
