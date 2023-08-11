@@ -1,0 +1,34 @@
+pandas 
+
+dica 2 -
+dados = pd.read_excel("vendas.xlsx ") (lê os arquivos)
+
+
+tail - pega as últimas linhas
+
+shape - é uma informação gravada de dados
+
+dtypes - tipo de dados
+
+object - é texto
+
+describe() - quantitativa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
