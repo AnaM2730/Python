@@ -1,3 +1,5 @@
+frase do dia: eu quero ser expert em python 
+
 pandas 
 
 dica 2 -
